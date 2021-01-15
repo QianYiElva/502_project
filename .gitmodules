@@ -31,3 +31,6 @@
 [submodule "lab-11-deep-learning-QianYiElva"]
 	path = lab-11-deep-learning-QianYiElva
 	url = https://github.com/anly502-spring2020/lab-11-deep-learning-QianYiElva.git
+[submodule "502_Project"]
+	path = 502_Project
+	url = https://github.com/DylanJJH/502_Project.git
