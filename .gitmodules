@@ -1,3 +1,9 @@
 [submodule "assignment-1-QianYiElva"]
 	path = assignment-1-QianYiElva
 	url = https://github.com/anly502-spring2020/assignment-1-QianYiElva.git
+[submodule "lab-3-amazon-emr-hadoop-and-hadoop-streaming-QianYiElva"]
+	path = lab-3-amazon-emr-hadoop-and-hadoop-streaming-QianYiElva
+	url = https://github.com/anly502-spring2020/lab-3-amazon-emr-hadoop-and-hadoop-streaming-QianYiElva.git
+[submodule "a2-QianYiElva"]
+	path = a2-QianYiElva
+	url = https://github.com/anly502-spring2020/a2-QianYiElva.git
