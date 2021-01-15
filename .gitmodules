@@ -7,3 +7,6 @@
 [submodule "a2-QianYiElva"]
 	path = a2-QianYiElva
 	url = https://github.com/anly502-spring2020/a2-QianYiElva.git
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/anly502-spring2020/lab-5-QianYiElva.git
