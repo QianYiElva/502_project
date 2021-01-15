@@ -22,3 +22,12 @@
 [submodule "assignment-4-QianYiElva"]
 	path = assignment-4-QianYiElva
 	url = https://github.com/anly502-spring2020/assignment-4-QianYiElva.git
+[submodule "lab-8-QianYiElva"]
+	path = lab-8-QianYiElva
+	url = https://github.com/anly502-spring2020/lab-8-QianYiElva.git
+[submodule "lab-10-QianYiElva"]
+	path = lab-10-QianYiElva
+	url = https://github.com/anly502-spring2020/lab-10-QianYiElva.git
+[submodule "lab-11-deep-learning-QianYiElva"]
+	path = lab-11-deep-learning-QianYiElva
+	url = https://github.com/anly502-spring2020/lab-11-deep-learning-QianYiElva.git
