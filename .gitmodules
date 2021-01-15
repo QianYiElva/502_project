@@ -10,3 +10,15 @@
 [submodule "Lab5"]
 	path = Lab5
 	url = https://github.com/anly502-spring2020/lab-5-QianYiElva.git
+[submodule "lab-6-QianYiElva"]
+	path = lab-6-QianYiElva
+	url = https://github.com/anly502-spring2020/lab-6-QianYiElva.git
+[submodule "lab-7-QianYiElva"]
+	path = lab-7-QianYiElva
+	url = https://github.com/anly502-spring2020/lab-7-QianYiElva.git
+[submodule "assignment-3-QianYiElva"]
+	path = assignment-3-QianYiElva
+	url = https://github.com/anly502-spring2020/assignment-3-QianYiElva.git
+[submodule "assignment-4-QianYiElva"]
+	path = assignment-4-QianYiElva
+	url = https://github.com/anly502-spring2020/assignment-4-QianYiElva.git
